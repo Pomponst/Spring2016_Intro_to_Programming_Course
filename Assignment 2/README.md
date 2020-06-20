@@ -1,3 +1,4 @@
+# Assignment 2
 1. Write a program that calculates the net pay for the week for an hourly worker. The program should prompt the user for the number of hours the worker worked that week, and his/her hourly pay rate. Gross Pay is defined as (hourly rate * number of hours worked). Net pay is the gross pay minus all deductions.
 
 	Assume that federal taxes are 25% (of gross pay) and that state taxes are 15% (of gross pay) and that these are the only deductions.
