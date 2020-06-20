@@ -1,3 +1,4 @@
+# Assignment 1
 1. Write a program that has one line of Python code for each step. (Each step is labeled a, b, c, etc.) Put the each line of code below each step.<br>
 Stock Purchase: The following steps calculate the amount of a stock purchase.
 	1. Create the variable costPerShare and assign it the value 25.625.
