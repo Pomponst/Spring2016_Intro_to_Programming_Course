@@ -1,3 +1,4 @@
+#Assignment 3
 1. Write a program that determines and prints out the number of times the letter i (uppercase and lowercase) appears in the following string:
 
 	"The function of education is to teach one to think intensively and to think critically. Intelligence plus character - that is the goal of true education."
