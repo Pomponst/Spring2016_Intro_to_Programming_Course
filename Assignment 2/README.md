@@ -11,8 +11,7 @@
 	Federal Tax Deducted: $ 150.0
 	State Tax Deducted: $ 90.0
 	Total Deductions: $ 240.0
-	Net Pay: $ 360.0
-	</pre>
+	Net Pay: $ 360.0</pre>
 2. Write a program that indicates the change you should receive when making a purchase. Assume you’ve given the cashier $1.00 for an item that costs less than $1.00. The program should ask you the price of your purchase, in cents. (Your entry should therefore be an integer.) The program should first determine and output the change (in cents). It should then determine and output the number of quarters, dimes, nickels and pennies in your change. Like a human, its answer should be the minimum number of coins possible. (So if your change is 30 cents the program should indicate you receive 1 quarter and 1 nickel, and not, say, six nickels or 30 pennies.) Here are a couple of sample interactions. (User input is bold.)
 	<pre>
 	How much does the item cost (in cents)? <b>33</b>
@@ -21,5 +20,4 @@
 
 	How much does the item cost (in cents)? <b>55</b>
 	You should get 45 cents back.
-	Your change is 1 quarter(s), 2 dime(s), 0 nickel(s) and 0 penny/pennies.
-	</pre>
+	Your change is 1 quarter(s), 2 dime(s), 0 nickel(s) and 0 penny/pennies.</pre>
