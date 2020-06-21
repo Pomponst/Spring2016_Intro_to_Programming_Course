@@ -1,26 +1,26 @@
 # Assginment 11
 1. Improve the functionality of the (first) NumberOfVowels program from class to also print out the locations (indexes) of the vowels in the input string. Some sample interactions follow:
-
-	Please enter a string: **hello**<br>
-	The number of vowel occurrences in your string is: 2<br>
-	The indexes of the vowels in your string are: [1, 4]
-
-	Please enter a string: **pfft**<br>
-	The number of vowel occurrences in your string is: 0
-
-	Please enter a string: **bell**<br>
+	<pre>
+	Please enter a string: <b>hello</b>
+	The number of vowel occurrences in your string is: 2
+	The indexes of the vowels in your string are: [1, 4]</pre>
+	<pre>
+	Please enter a string: <b>pfft</b>
+	The number of vowel occurrences in your string is: 0</pre>
+	<pre>
+	Please enter a string: <b>bell</b>
 	The number of vowel occurrences in your string is: 1<br>
-	The index of the vowel in your string is: [1]
+	The index of the vowel in your string is: [1]</pre>
 2. Recall the palindrome problem of assignment 8. Write a new program that prompts the user for a string and checks to see if that string is a palindrome. For this updated program, input strings may have punctuation marks, spaces, and capitalizations, but these are ignored in the palindrome check.  Here are some sample interactions.
-
-	Please enter a string to check: **A man, a plan, a canal: Panama!**<br>
-	The string "A man, a plan, a canal: Panama!" is a palindrome.
-
-	Please enter a string to check: **No ‘x’ in Nixon**<br>
-	The string "No ‘x’ in Nixon" is a palindrome.
-
-	Please enter a string to check: **hello students**<br>
-	The string "hello students" is not a palindrome.
+	<pre>
+	Please enter a string to check: <b>A man, a plan, a canal: Panama!</b>
+	The string "A man, a plan, a canal: Panama!" is a palindrome.</pre>
+	<pre>
+	Please enter a string to check: <b>No ‘x’ in Nixon</b>
+	The string "No ‘x’ in Nixon" is a palindrome.</pre>
+	<pre>
+	Please enter a string to check: <b>hello students</b>
+	The string "hello students" is not a palindrome.</pre>
 3. Write a program that calculates and displays the end of year balances in a savings account if $1,000 is put in the account at 6% interest for five years.  (Recall that if I put $1000 in a bank account at the beginning of the year, then the balance at the end of the year is $1,000 + $1,000*6%.) You may assume no money is removed from the account over this period.<br>
 	Your program output should look like this:
 	```
