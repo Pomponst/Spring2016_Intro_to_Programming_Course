@@ -12,25 +12,24 @@ If the player's guess was outside of 25 they get nothing.
 Your pseudocode for the program should go include all the interaction described above and print out the result of each game and the total for all games. Also, it should allow the player to indicate at the start how many games they wish to play.
 
 The following is a sample run of the game.  As usual, user input is in bold.
-```
-Please enter the number of games you wish to play? 3
+<pre>
+Please enter the number of games you wish to play? <b>3</b>
 
-Enter your guess. 30
+Enter your guess. <b>30</b>
 The wheel landed on 30.
 You win $2500.
 
-Enter your guess. 20
+Enter your guess. <b>20</b>
 The wheel landed on 15
-Do you wish to spin the wheel for your prize (y/n)? y
+Do you wish to spin the wheel for your prize (y/n)? <b>y</b>
 The wheel landed on 40.
 You win $800.
 
-Enter your guess. 113
+Enter your guess. <b>113</b>
 Invalid guess
-Enter your guess. 75
+Enter your guess. <b>75</b>
 The wheel landed on 50.
 You lose.
 
-Your total for 3 games is $3300.
-```
+Your total for 3 games is $3300.</pre>
 Again, you should not write the program, just the pseudocode.
