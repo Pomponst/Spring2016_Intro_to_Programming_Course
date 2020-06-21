@@ -1,8 +1,9 @@
+# Assignment 16
 Consider the following nested list.
 
 Board = [[0,0,0],<br>
-				 [0,0,0],<br>
-				 [0,0,0]]
+	 [0,0,0],<br>
+	 [0,0,0]]
 
 Write a program that:
 1. Creates this list. It should be global in scope.(By “create” I mean simply that this assignment statement should be in your program.)
@@ -22,16 +23,38 @@ Write a program that:
 	*Sample Run 1*
 	```
 	Printing initial board:
-	0   0   0 0   0   0 0   0   0
+	0   0   0
+	0   0   0
+	0   0   0
 	Printing board after random values have been assigned:
-	2   4   3 3   4   7 8   5   4
-	The total of row 0 is: 9 The total of column 0 is: 13 The total of row 1 is: 14 The totalof column 1 is: 13 The total of row 2 is: 17 The total of column 2 is: 14 The total of the diagonal from top left to bottom right is: 10 The total of the diagonal from top right to bottom left is: 15
+	2   4   3
+	3   4   7
+	8   5   4
+	The total of row 0 is: 9
+	The total of column 0 is: 13
+	The total of row 1 is: 14
+	The totalof column 1 is: 13
+	The total of row 2 is: 17
+	The total of column 2 is: 14
+	The total of the diagonal from top left to bottom right is: 10
+	The total of the diagonal from top right to bottom left is: 15
 	```
 	*Sample Run 2*
 	```
 	Printing initial board:
-	0   0   0 0 0   0 0   0   0
+	0   0   0
+	0   0   0
+	0   0   0
 	Printing board after random values have been assigned:
-	6   8   1 4   7   7 5   1   7
-	The total of row 0 is: 15 The total of column 0 is: 15 The total of row 1 is: 18 The total of column 1 is: 16 The total of row 2 is: 13 The total of column 2 is: 15 The total of the diagonal from top left to bottom right is: 20 The total of the diagonal from top right to bottom left is: 13
+	6   8   1
+	4   7   7
+	5   1   7
+	The total of row 0 is: 15
+	The total of column 0 is: 15
+	The total of row 1 is: 18
+	The total of column 1 is: 16
+	The total of row 2 is: 13
+	The total of column 2 is: 15
+	The total of the diagonal from top left to bottom right is: 20
+	The total of the diagonal from top right to bottom left is: 13
 	```
