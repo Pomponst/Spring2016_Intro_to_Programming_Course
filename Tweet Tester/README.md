@@ -23,7 +23,7 @@ Excess characters: 45</pre>
 
 Sample Run 2:
 <pre>
-Please enter a tweet: <b>This #tweet is #short and has @ several #hashtags. And http<span></span>://links @and @mentions #<b>
+Please enter a tweet: <b>This #tweet is #short and has @ several #hashtags. And http<span></span>://links @and @mentions #</b>
 Length within limit. No. characters: 85
 Number of Hashtags: 3
 Number of Attributions: 2
