@@ -5,11 +5,11 @@
 4. Write a program that allows the user to convert a temperature from degrees Centigrade to degrees Fahrenheit or from degrees Fahrenheit to degrees Centigrade.  The user enters in a temperature, and then enters either “F” or “C” to indicate the scale of the temperature just entered. 
 
 	Two sample runs follow.  As usual, user input is in bold.
-
-	Enter a temperature: **100**<br>
-	Enter the scale (F or C): **C**<br>
-	A temperature of 100.0 Celsius equals 212.0 Fahrenheit.
-
-	Enter a temperature: **32**<br>
-	Enter the scale (F or C): **F**<br>
-	A temperature of 32.0 Fahrenheit equals 0.0 Celsius.
+	<pre>
+	Enter a temperature: <b>100</b>
+	Enter the scale (F or C): <b>C</b>
+	A temperature of 100.0 Celsius equals 212.0 Fahrenheit.</pre>
+	<pre>
+	Enter a temperature: <b>32</b>
+	Enter the scale (F or C): <b>F</b>
+	A temperature of 32.0 Fahrenheit equals 0.0 Celsius.</pre>
