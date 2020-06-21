@@ -1,32 +1,30 @@
 # Assignment 9
 1. Write a program that creates a conversion table for gallons to liters.  The program should display gallons from a starting value provided by the user up to (and including) an ending value provided by the user, in increments specified by the user. Use the relationship that 1 gallon of liquid is equivalent to 3.785 liters.  Two sample program interactions follow. As usual, user input is in bold.
-
-	Enter the starting value: **2**<br>
-	Enter the ending value: **6**<br>
-	Enter the increment: **1**
-	```
-	Gallons		Liters
-	2.0 		 7.57
-	3.0 		 11.36
-	4.0 		 15.14
-	5.0 		 18.93
-	6.0 		 22.71
-	```
-
-	Enter the starting value: **.5**<br>
-	Enter the ending value: **4**<br>
-	Enter the increment: **.5**
-	```
-	Gallons		Liters
-	0.5 		 1.89
-	1.0 		 3.79
-	1.5 		 5.68
-	2.0 		 7.57
-	2.5 		 9.46
-	3.0 		 11.36
-	3.5 		 13.25
-	4.0 		 15.14
-	```
+	<pre>
+	Enter the starting value: <b>2</b>
+	Enter the ending value: <b>6</b>
+	Enter the increment: <b>1</b>
+	
+	Gallons	Liters
+	2.0 		7.57
+	3.0 		11.36
+	4.0 		15.14
+	5.0 		18.93
+	6.0 		22.71</pre>
+	<pre>
+	Enter the starting value: <b>.5</b>
+	Enter the ending value: <b>4</b>
+	Enter the increment: <b>.5</b>
+	
+	Gallons	Liters
+	0.5 		1.89
+	1.0 		3.79
+	1.5 		5.68
+	2.0 		7.57
+	2.5 		9.46
+	3.0 		11.36
+	3.5 		13.25
+	4.0 		 15.14</pre>
 	In terms of formatting, note the heading (“Gallons” and “Liters”), that the heading and the data are aligned, and that the liters are rounded to two decimal places.
 	
 2. A machine purchased for $28,000 is depreciated at a rate of $4,000 a year for seven years.  Write a program that computes and displays a depreciation table for seven years.  The table should have the following form (where “EOY Value” stands for “End of Year Value” and “Acc. Dep.” stands for “Accumulated Depreciation”:
@@ -61,22 +59,22 @@
 	If you’re not sure how to calculate a GPA, Google it.
 
 	A sample interaction is provided below.
+	<pre>
+	Enter the number of courses: <b>4</b>
 
-	Enter the number of courses: **4**
+	Enter the grade for course 1: <b>3.33</b>
+	Enter the number of credits for course 1: <b>3</b>
 
-	Enter the grade for course 1: **3.33**<br>
-	Enter the number of credits for course 1: **3**
+	Enter the grade for course 2: <b>4</b>
+	Enter the number of credits for course 2: <b>3</b>
 
-	Enter the grade for course 2: **4**<br>
-	Enter the number of credits for course 2: **3**
+	Enter the grade for course 3: <b>3</b>
+	Enter the number of credits for course 3: <b>3</b>
 
-	Enter the grade for course 3: **3**<br>
-	Enter the number of credits for course 3: **3**
-
-	Enter the grade for course 4: **3.66**<br>
-	Enter the number of credits for course 4: **4**
+	Enter the grade for course 4: <b>3.66</b>
+	Enter the number of credits for course 4: <b>4</b>
 
 
-	Your GPA is: 3.51
+	Your GPA is: 3.51</pre>
 
 	If you can’t get the prompts to specify the course number, just provide simple prompts for the grade and the credits.
