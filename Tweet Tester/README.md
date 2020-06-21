@@ -16,17 +16,17 @@ Note that the space is specified by a space within single or double quotation ma
 Here are two sample interactions. As usual, user input is in bold.
 
 Sample Run 1:
-
+<pre>
 Please enter a tweet:
-Please enter a tweet: **This is a #long tweet. An extra long #link. So, when @you write your code it should ignore all of the #hastags and @mentions since it is too long. It should also ignore all http<span></span>://links**
-Excess characters: 45
+Please enter a tweet: <b>This is a #long tweet. An extra long #link. So, when @you write your code it should ignore all of the #hastags and @mentions since it is too long. It should also ignore all http<span></span>://links</b>
+Excess characters: 45</pre>
 
 Sample Run 2:
-
-Please enter a tweet: **This #tweet is #short and has @ several #hashtags. And http<span></span>://links @and @mentions #**
+<pre>
+Please enter a tweet: <b>This #tweet is #short and has @ several #hashtags. And http<span></span>://links @and @mentions #<b>
 Length within limit. No. characters: 85
 Number of Hashtags: 3
 Number of Attributions: 2
-Number of Links: 1
+Number of Links: 1</pre>
 
 You may of course simply copy these sample tweets into your program’s prompt as opposed to having to re-type them in.
