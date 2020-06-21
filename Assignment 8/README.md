@@ -1,4 +1,4 @@
-#Assignment 8
+# Assignment 8
 1. A palindrome is any sequence of characters that reads the same backwards as forwards. One-word examples include:<br>
 	Dad	madam	rotor<br>
 	Kayak	redder	noon
@@ -10,15 +10,15 @@
 	That is, numeric strings and “nonsense” strings that read the same backwards as forwards should be classified as palindromes.
 
 	Write a program that takes as input a string and determines if it’s a one-word palindrome.  Here’s a sample output.
-
-	Please enter a string: **redder**<br>
-	redder is a palindrome.
-
-	Please enter a string: **zap4554paz**<br>
-	zap4554paz is a palindrome.
-
-	Please enter a string: **hello**<br>
-	hello is not a palindrome.
+	<pre>
+	Please enter a string: <b>redder</b>
+	redder is a palindrome.</pre>
+	<pre>
+	Please enter a string: <b>zap4554paz</b>
+	zap4554paz is a palindrome.</pre>
+	<pre>
+	Please enter a string: <b>hello</b>
+	hello is not a palindrome.</pre>
 
 	Note: Palindromes can be more complicated. The below are considered palindromes too – punctuation, capitalization and spaces are ignored.
 
