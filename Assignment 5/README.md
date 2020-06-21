@@ -11,9 +11,9 @@
 	|less than $10,000|$200 plus 3% of sales|
 
 	Input to the program should be monthly sales (in dollars) and output should be the corresponding income (in dollars).  A sample program interaction follows.  (As usual, user input is in bold.)
-
-	What were your monthly sales? **43256**<br>
-Your income this month is $ 6405.84
+	<pre>
+	What were your monthly sales? <b>43256</b>
+	Your income this month is $ 6405.84</pre>
 
 2. Write a program that asks the user for their marital status: user input should be as follows:
 
@@ -23,9 +23,9 @@ Your income this month is $ 6405.84
 	w – widowed.
 
 	The program’s output should simply be a sentence stating their marital status.  A sample output follows.  As usual, user input is in bold.
-
-	What is your marital status?  **m**<br>
-	You are married.
+	<pre>
+	What is your marital status?  <b>m</b>
+	You are married.</pre>
 
 	If the user enters some character other than s, m, d or w, the system should respond with the sentence, “You have entered an unrecognizable marital status.”
 	
