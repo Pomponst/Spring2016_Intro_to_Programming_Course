@@ -20,19 +20,18 @@
 	ranks = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A']
 	```
 2. Write a program that determines the average exam grade for each student in a course. The program should prompt the user for the number of students and the number of exams. Here’s a sample interaction:
-	```
-	How many students? 2
-	How many exams? 3
-	Enter the score for student 1 for exam 1: 70
-	Enter the score for student 1 for exam 2: 80
-	Enter the score for student 1 for exam 3: 90
+	<pre>
+	How many students? <b>2</b>
+	How many exams? <b>3</b>
+	Enter the score for student 1 for exam 1: <b>70</b>
+	Enter the score for student 1 for exam 2: <b>80</b>
+	Enter the score for student 1 for exam 3: <b>90</b>
 	The average exam score for student 1 is: 80.0
 	
-	Enter the score for student 2 for exam 1: 65
-	Enter the score for student 2 for exam 2: 70
-	Enter the score for student 2 for exam 3: 85
-	The average exam score for student 2 is: 73.33
-	```
+	Enter the score for student 2 for exam 1: <b>65</b>
+	Enter the score for student 2 for exam 2: <b>70</b>
+	Enter the score for student 2 for exam 3: <b>85</b>
+	The average exam score for student 2 is: 73.33</pre>
 	Your code does not have to deal with input data validation.
 3. After writing each function below, include the function in a working program and test the function by passing data to it. Paste your entire program in each case in the spaces indicated.<br>
 Python comes with many built-in functions including abs() and max(). Your task here is to write functions that duplicate the functionality of these built-in functions (without, of course, using them).
@@ -57,24 +56,23 @@ Python comes with many built-in functions including abs() and max(). Your task h
 	payCalc() determines the weekly wage for a worker and prints out that value.<br>
 	Your code does not have to do any input data validation.<br>
 	Here's a sample interaction:
-	```
+	<pre>
 	This program calculates the weekly pay for hourly workers.
 	Workers get "time and a half" for overtime.
 	That is, for all hours worked above 40, they get paid at 1.5 times their regular-hourly rate.
 	Enter the number of workers for whom pay is to be calculated.
 	Then, for each worker enter the hourly pay rate and the number of hours worked.
 
-	How many workers? 3
+	How many workers? <b>3</b>
 
-	Enter the hourly pay rate for worker 1: 10
-	Enter the number of hours worked for worker 1: 35
+	Enter the hourly pay rate for worker 1: <b>10</b>
+	Enter the number of hours worked for worker 1: <b>35</b>
 	This week's pay: $ 350.0
 
-	Enter the hourly pay rate for worker 2: 10
-	Enter the number of hours worked for worker 2: 45
+	Enter the hourly pay rate for worker 2: <b>10</b>
+	Enter the number of hours worked for worker 2: <b>45</b>
 	This week's pay: $ 475.0
 
-	Enter the hourly pay rate for worker 3: 12.75
-	Enter the number of hours worked for worker 3: 42.5
-	This week's pay: $ 557.81
-	```
+	Enter the hourly pay rate for worker 3: <b>12.75</b>
+	Enter the number of hours worked for worker 3: <b>42.5</b>
+	This week's pay: $ 557.81</pre>
