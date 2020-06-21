@@ -17,23 +17,22 @@ After each flip the program should indicate the result of the flip and if the us
 As usual, your program should check all user input to make sure it’s valid (and not let the user proceed until valid input has been entered).
 
 Sample Interaction:
-```
+<pre>
 See if you can predict if the computer flips heads or tails.
-How many times do you want to play? 3
+How many times do you want to play? <b>3</b>
 
-Enter your guess. 0 for tails or 1 for heads: 1
+Enter your guess. 0 for tails or 1 for heads: <b>1</b>
 The flip is tails.
 Sorry. That's not correct.
 
-Enter your guess. 0 for tails or 1 for heads: 1
+Enter your guess. 0 for tails or 1 for heads: <b>1</b>
 The flip is tails.
 Sorry. That's not correct.
 
-Enter your guess. 0 for tails or 1 for heads: 1
+Enter your guess. 0 for tails or 1 for heads: <b>1</b>
 The flip is heads.
 Correct guess.
 
 The coins was flipped 3 times.
 You guessed correctly 1 time(s).
-Your percentage correct is: 33.33 %.
-```
+Your percentage correct is: 33.33 %.</pre>
